@@ -42,8 +42,8 @@ hospital_project/
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/MohdPaikerAbbas/hospital-management-system.git
+cd hospital-management-system
 ```
 
 ### 3. Install dependencies
